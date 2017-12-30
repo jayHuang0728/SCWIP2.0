@@ -1,0 +1,1634 @@
+[
+    {
+        "city": "臺北市",
+        "areas": [
+            {
+                "area_name": "中正區",
+                "postal_code": "100"
+            },
+            {
+                "area_name": "大同區",
+                "postal_code": "103"
+            },
+            {
+                "area_name": "中山區",
+                "postal_code": "104"
+            },
+            {
+                "area_name": "松山區",
+                "postal_code": "105"
+            },
+            {
+                "area_name": "大安區",
+                "postal_code": "106"
+            },
+            {
+                "area_name": "萬華區",
+                "postal_code": "108"
+            },
+            {
+                "area_name": "信義區",
+                "postal_code": "110"
+            },
+            {
+                "area_name": "士林區",
+                "postal_code": "111"
+            },
+            {
+                "area_name": "北投區",
+                "postal_code": "112"
+            },
+            {
+                "area_name": "內湖區",
+                "postal_code": "114"
+            },
+            {
+                "area_name": "南港區",
+                "postal_code": "115"
+            },
+            {
+                "area_name": "文山區",
+                "postal_code": "116"
+            }
+        ]
+    },
+    {
+        "city": "基隆市",
+        "areas": [
+            {
+                "area_name": "仁愛區",
+                "postal_code": "200"
+            },
+            {
+                "area_name": "信義區",
+                "postal_code": "201"
+            },
+            {
+                "area_name": "中正區",
+                "postal_code": "202"
+            },
+            {
+                "area_name": "中山區",
+                "postal_code": "203"
+            },
+            {
+                "area_name": "安樂區",
+                "postal_code": "204"
+            },
+            {
+                "area_name": "暖暖區",
+                "postal_code": "205"
+            },
+            {
+                "area_name": "七堵區",
+                "postal_code": "206"
+            }
+        ]
+    },
+    {
+        "city": "新北市",
+        "areas": [
+            {
+                "area_name": "萬里區",
+                "postal_code": "207"
+            },
+            {
+                "area_name": "金山區",
+                "postal_code": "208"
+            },
+            {
+                "area_name": "板橋區",
+                "postal_code": "220"
+            },
+            {
+                "area_name": "汐止區",
+                "postal_code": "221"
+            },
+            {
+                "area_name": "深坑區",
+                "postal_code": "222"
+            },
+            {
+                "area_name": "石碇區",
+                "postal_code": "223"
+            },
+            {
+                "area_name": "瑞芳區",
+                "postal_code": "224"
+            },
+            {
+                "area_name": "平溪區",
+                "postal_code": "226"
+            },
+            {
+                "area_name": "雙溪區",
+                "postal_code": "227"
+            },
+            {
+                "area_name": "貢寮區",
+                "postal_code": "228"
+            },
+            {
+                "area_name": "新店區",
+                "postal_code": "231"
+            },
+            {
+                "area_name": "坪林區",
+                "postal_code": "232"
+            },
+            {
+                "area_name": "烏來區",
+                "postal_code": "233"
+            },
+            {
+                "area_name": "永和區",
+                "postal_code": "234"
+            },
+            {
+                "area_name": "中和區",
+                "postal_code": "235"
+            },
+            {
+                "area_name": "土城區",
+                "postal_code": "236"
+            },
+            {
+                "area_name": "三峽區",
+                "postal_code": "237"
+            },
+            {
+                "area_name": "樹林區",
+                "postal_code": "238"
+            },
+            {
+                "area_name": "鶯歌區",
+                "postal_code": "239"
+            },
+            {
+                "area_name": "三重區",
+                "postal_code": "241"
+            },
+            {
+                "area_name": "新莊區",
+                "postal_code": "242"
+            },
+            {
+                "area_name": "泰山區",
+                "postal_code": "243"
+            },
+            {
+                "area_name": "林口區",
+                "postal_code": "244"
+            },
+            {
+                "area_name": "蘆洲區",
+                "postal_code": "247"
+            },
+            {
+                "area_name": "五股區",
+                "postal_code": "248"
+            },
+            {
+                "area_name": "新莊區",
+                "postal_code": "248"
+            },
+            {
+                "area_name": "八里區",
+                "postal_code": "249"
+            },
+            {
+                "area_name": "淡水區",
+                "postal_code": "251"
+            },
+            {
+                "area_name": "三芝區",
+                "postal_code": "252"
+            },
+            {
+                "area_name": "石門區",
+                "postal_code": "253"
+            }
+        ]
+    },
+    {
+        "city": "連江縣",
+        "areas": [
+            {
+                "area_name": "南竿鄉",
+                "postal_code": "209"
+            },
+            {
+                "area_name": "北竿鄉",
+                "postal_code": "210"
+            },
+            {
+                "area_name": "莒光鄉",
+                "postal_code": "211"
+            },
+            {
+                "area_name": "東引鄉",
+                "postal_code": "212"
+            }
+        ]
+    },
+    {
+        "city": "宜蘭縣",
+        "areas": [
+            {
+                "area_name": "宜蘭市",
+                "postal_code": "260"
+            },
+            {
+                "area_name": "壯圍鄉",
+                "postal_code": "260"
+            },
+            {
+                "area_name": "頭城鎮",
+                "postal_code": "261"
+            },
+            {
+                "area_name": "礁溪鄉",
+                "postal_code": "262"
+            },
+            {
+                "area_name": "壯圍鄉",
+                "postal_code": "263"
+            },
+            {
+                "area_name": "員山鄉",
+                "postal_code": "264"
+            },
+            {
+                "area_name": "羅東鎮",
+                "postal_code": "265"
+            },
+            {
+                "area_name": "三星鄉",
+                "postal_code": "266"
+            },
+            {
+                "area_name": "大同鄉",
+                "postal_code": "267"
+            },
+            {
+                "area_name": "五結鄉",
+                "postal_code": "268"
+            },
+            {
+                "area_name": "冬山鄉",
+                "postal_code": "269"
+            },
+            {
+                "area_name": "蘇澳鎮",
+                "postal_code": "270"
+            },
+            {
+                "area_name": "南澳鄉",
+                "postal_code": "272"
+            },
+            {
+                "area_name": "釣魚臺",
+                "postal_code": "290"
+            }
+        ]
+    },
+    {
+        "city": "釣魚臺",
+        "areas": [
+            {
+                "area_name": "釣魚臺",
+                "postal_code": "290"
+            }
+        ]
+    },
+    {
+        "city": "新竹市",
+        "areas": [
+            {
+                "area_name": "東區",
+                "postal_code": "300"
+            },
+            {
+                "area_name": "北區",
+                "postal_code": "300"
+            },
+            {
+                "area_name": "香山區",
+                "postal_code": "300"
+            }
+        ]
+    },
+    {
+        "city": "新竹縣",
+        "areas": [
+            {
+                "area_name": "寶山鄉",
+                "postal_code": "300"
+            },
+            {
+                "area_name": "竹北市",
+                "postal_code": "302"
+            },
+            {
+                "area_name": "湖口鄉",
+                "postal_code": "303"
+            },
+            {
+                "area_name": "新豐鄉",
+                "postal_code": "304"
+            },
+            {
+                "area_name": "新埔鎮",
+                "postal_code": "305"
+            },
+            {
+                "area_name": "關西鎮",
+                "postal_code": "306"
+            },
+            {
+                "area_name": "芎林鄉",
+                "postal_code": "307"
+            },
+            {
+                "area_name": "寶山鄉",
+                "postal_code": "308"
+            },
+            {
+                "area_name": "竹東鎮",
+                "postal_code": "310"
+            },
+            {
+                "area_name": "五峰鄉",
+                "postal_code": "311"
+            },
+            {
+                "area_name": "橫山鄉",
+                "postal_code": "312"
+            },
+            {
+                "area_name": "尖石鄉",
+                "postal_code": "313"
+            },
+            {
+                "area_name": "北埔鄉",
+                "postal_code": "314"
+            },
+            {
+                "area_name": "峨眉鄉",
+                "postal_code": "315"
+            }
+        ]
+    },
+    {
+        "city": "桃園市",
+        "areas": [
+            {
+                "area_name": "中壢區",
+                "postal_code": "320"
+            },
+            {
+                "area_name": "平鎮區",
+                "postal_code": "324"
+            },
+            {
+                "area_name": "龍潭區",
+                "postal_code": "325"
+            },
+            {
+                "area_name": "楊梅區",
+                "postal_code": "326"
+            },
+            {
+                "area_name": "新屋區",
+                "postal_code": "327"
+            },
+            {
+                "area_name": "觀音區",
+                "postal_code": "328"
+            },
+            {
+                "area_name": "桃園區",
+                "postal_code": "330"
+            },
+            {
+                "area_name": "龜山區",
+                "postal_code": "333"
+            },
+            {
+                "area_name": "八德區",
+                "postal_code": "334"
+            },
+            {
+                "area_name": "大溪區",
+                "postal_code": "335"
+            },
+            {
+                "area_name": "復興區",
+                "postal_code": "336"
+            },
+            {
+                "area_name": "大園區",
+                "postal_code": "337"
+            },
+            {
+                "area_name": "蘆竹區",
+                "postal_code": "338"
+            }
+        ]
+    },
+    {
+        "city": "苗栗縣",
+        "areas": [
+            {
+                "area_name": "竹南鎮",
+                "postal_code": "350"
+            },
+            {
+                "area_name": "頭份市",
+                "postal_code": "351"
+            },
+            {
+                "area_name": "三灣鄉",
+                "postal_code": "352"
+            },
+            {
+                "area_name": "南庄鄉",
+                "postal_code": "353"
+            },
+            {
+                "area_name": "獅潭鄉",
+                "postal_code": "354"
+            },
+            {
+                "area_name": "後龍鎮",
+                "postal_code": "356"
+            },
+            {
+                "area_name": "通霄鎮",
+                "postal_code": "357"
+            },
+            {
+                "area_name": "苑裡鎮",
+                "postal_code": "358"
+            },
+            {
+                "area_name": "苗栗市",
+                "postal_code": "360"
+            },
+            {
+                "area_name": "造橋鄉",
+                "postal_code": "361"
+            },
+            {
+                "area_name": "頭屋鄉",
+                "postal_code": "362"
+            },
+            {
+                "area_name": "公館鄉",
+                "postal_code": "363"
+            },
+            {
+                "area_name": "大湖鄉",
+                "postal_code": "364"
+            },
+            {
+                "area_name": "泰安鄉",
+                "postal_code": "365"
+            },
+            {
+                "area_name": "銅鑼鄉",
+                "postal_code": "366"
+            },
+            {
+                "area_name": "三義鄉",
+                "postal_code": "367"
+            },
+            {
+                "area_name": "西湖鄉",
+                "postal_code": "368"
+            },
+            {
+                "area_name": "卓蘭鎮",
+                "postal_code": "369"
+            }
+        ]
+    },
+    {
+        "city": "臺中市",
+        "areas": [
+            {
+                "area_name": "中區",
+                "postal_code": "400"
+            },
+            {
+                "area_name": "東區",
+                "postal_code": "401"
+            },
+            {
+                "area_name": "南區",
+                "postal_code": "402"
+            },
+            {
+                "area_name": "西區",
+                "postal_code": "403"
+            },
+            {
+                "area_name": "北區",
+                "postal_code": "404"
+            },
+            {
+                "area_name": "北屯區",
+                "postal_code": "406"
+            },
+            {
+                "area_name": "西屯區",
+                "postal_code": "407"
+            },
+            {
+                "area_name": "南屯區",
+                "postal_code": "408"
+            },
+            {
+                "area_name": "太平區",
+                "postal_code": "411"
+            },
+            {
+                "area_name": "大里區",
+                "postal_code": "412"
+            },
+            {
+                "area_name": "霧峰區",
+                "postal_code": "413"
+            },
+            {
+                "area_name": "烏日區",
+                "postal_code": "414"
+            },
+            {
+                "area_name": "豐原區",
+                "postal_code": "420"
+            },
+            {
+                "area_name": "后里區",
+                "postal_code": "421"
+            },
+            {
+                "area_name": "石岡區",
+                "postal_code": "422"
+            },
+            {
+                "area_name": "東勢區",
+                "postal_code": "423"
+            },
+            {
+                "area_name": "和平區",
+                "postal_code": "424"
+            },
+            {
+                "area_name": "新社區",
+                "postal_code": "426"
+            },
+            {
+                "area_name": "潭子區",
+                "postal_code": "427"
+            },
+            {
+                "area_name": "大雅區",
+                "postal_code": "428"
+            },
+            {
+                "area_name": "神岡區",
+                "postal_code": "429"
+            },
+            {
+                "area_name": "大肚區",
+                "postal_code": "432"
+            },
+            {
+                "area_name": "沙鹿區",
+                "postal_code": "433"
+            },
+            {
+                "area_name": "龍井區",
+                "postal_code": "434"
+            },
+            {
+                "area_name": "梧棲區",
+                "postal_code": "435"
+            },
+            {
+                "area_name": "清水區",
+                "postal_code": "436"
+            },
+            {
+                "area_name": "大甲區",
+                "postal_code": "437"
+            },
+            {
+                "area_name": "外埔區",
+                "postal_code": "438"
+            },
+            {
+                "area_name": "大安區",
+                "postal_code": "439"
+            }
+        ]
+    },
+    {
+        "city": "彰化縣",
+        "areas": [
+            {
+                "area_name": "彰化市",
+                "postal_code": "500"
+            },
+            {
+                "area_name": "芬園鄉",
+                "postal_code": "502"
+            },
+            {
+                "area_name": "花壇鄉",
+                "postal_code": "503"
+            },
+            {
+                "area_name": "秀水鄉",
+                "postal_code": "504"
+            },
+            {
+                "area_name": "鹿港鎮",
+                "postal_code": "505"
+            },
+            {
+                "area_name": "福興鄉",
+                "postal_code": "506"
+            },
+            {
+                "area_name": "線西鄉",
+                "postal_code": "507"
+            },
+            {
+                "area_name": "和美鎮",
+                "postal_code": "508"
+            },
+            {
+                "area_name": "伸港鄉",
+                "postal_code": "509"
+            },
+            {
+                "area_name": "員林市",
+                "postal_code": "510"
+            },
+            {
+                "area_name": "社頭鄉",
+                "postal_code": "511"
+            },
+            {
+                "area_name": "永靖鄉",
+                "postal_code": "512"
+            },
+            {
+                "area_name": "埔心鄉",
+                "postal_code": "513"
+            },
+            {
+                "area_name": "溪湖鎮",
+                "postal_code": "514"
+            },
+            {
+                "area_name": "大村鄉",
+                "postal_code": "515"
+            },
+            {
+                "area_name": "埔鹽鄉",
+                "postal_code": "516"
+            },
+            {
+                "area_name": "田中鎮",
+                "postal_code": "520"
+            },
+            {
+                "area_name": "北斗鎮",
+                "postal_code": "521"
+            },
+            {
+                "area_name": "田尾鄉",
+                "postal_code": "522"
+            },
+            {
+                "area_name": "埤頭鄉",
+                "postal_code": "523"
+            },
+            {
+                "area_name": "溪州鄉",
+                "postal_code": "524"
+            },
+            {
+                "area_name": "竹塘鄉",
+                "postal_code": "525"
+            },
+            {
+                "area_name": "二林鎮",
+                "postal_code": "526"
+            },
+            {
+                "area_name": "大城鄉",
+                "postal_code": "527"
+            },
+            {
+                "area_name": "芳苑鄉",
+                "postal_code": "528"
+            },
+            {
+                "area_name": "二水鄉",
+                "postal_code": "530"
+            }
+        ]
+    },
+    {
+        "city": "南投縣",
+        "areas": [
+            {
+                "area_name": "南投市",
+                "postal_code": "540"
+            },
+            {
+                "area_name": "中寮鄉",
+                "postal_code": "541"
+            },
+            {
+                "area_name": "草屯鎮",
+                "postal_code": "542"
+            },
+            {
+                "area_name": "國姓鄉",
+                "postal_code": "544"
+            },
+            {
+                "area_name": "埔里鎮",
+                "postal_code": "545"
+            },
+            {
+                "area_name": "仁愛鄉",
+                "postal_code": "546"
+            },
+            {
+                "area_name": "名間鄉",
+                "postal_code": "551"
+            },
+            {
+                "area_name": "集集鎮",
+                "postal_code": "552"
+            },
+            {
+                "area_name": "水里鄉",
+                "postal_code": "553"
+            },
+            {
+                "area_name": "魚池鄉",
+                "postal_code": "555"
+            },
+            {
+                "area_name": "信義鄉",
+                "postal_code": "556"
+            },
+            {
+                "area_name": "竹山鎮",
+                "postal_code": "557"
+            },
+            {
+                "area_name": "鹿谷鄉",
+                "postal_code": "558"
+            }
+        ]
+    },
+    {
+        "city": "嘉義市",
+        "areas": [
+            {
+                "area_name": "西區",
+                "postal_code": "600"
+            },
+            {
+                "area_name": "東區",
+                "postal_code": "600"
+            }
+        ]
+    },
+    {
+        "city": "嘉義縣",
+        "areas": [
+            {
+                "area_name": "番路鄉",
+                "postal_code": "602"
+            },
+            {
+                "area_name": "梅山鄉",
+                "postal_code": "603"
+            },
+            {
+                "area_name": "竹崎鄉",
+                "postal_code": "604"
+            },
+            {
+                "area_name": "阿里山鄉",
+                "postal_code": "605"
+            },
+            {
+                "area_name": "中埔鄉",
+                "postal_code": "606"
+            },
+            {
+                "area_name": "大埔鄉",
+                "postal_code": "607"
+            },
+            {
+                "area_name": "水上鄉",
+                "postal_code": "608"
+            },
+            {
+                "area_name": "鹿草鄉",
+                "postal_code": "611"
+            },
+            {
+                "area_name": "太保市",
+                "postal_code": "612"
+            },
+            {
+                "area_name": "朴子市",
+                "postal_code": "613"
+            },
+            {
+                "area_name": "東石鄉",
+                "postal_code": "614"
+            },
+            {
+                "area_name": "六腳鄉",
+                "postal_code": "615"
+            },
+            {
+                "area_name": "新港鄉",
+                "postal_code": "616"
+            },
+            {
+                "area_name": "民雄鄉",
+                "postal_code": "621"
+            },
+            {
+                "area_name": "大林鎮",
+                "postal_code": "622"
+            },
+            {
+                "area_name": "溪口鄉",
+                "postal_code": "623"
+            },
+            {
+                "area_name": "義竹鄉",
+                "postal_code": "624"
+            },
+            {
+                "area_name": "布袋鎮",
+                "postal_code": "625"
+            }
+        ]
+    },
+    {
+        "city": "雲林縣",
+        "areas": [
+            {
+                "area_name": "斗南鎮",
+                "postal_code": "630"
+            },
+            {
+                "area_name": "大埤鄉",
+                "postal_code": "631"
+            },
+            {
+                "area_name": "虎尾鎮",
+                "postal_code": "632"
+            },
+            {
+                "area_name": "土庫鎮",
+                "postal_code": "633"
+            },
+            {
+                "area_name": "褒忠鄉",
+                "postal_code": "634"
+            },
+            {
+                "area_name": "東勢鄉",
+                "postal_code": "635"
+            },
+            {
+                "area_name": "臺西鄉",
+                "postal_code": "636"
+            },
+            {
+                "area_name": "崙背鄉",
+                "postal_code": "637"
+            },
+            {
+                "area_name": "麥寮鄉",
+                "postal_code": "638"
+            },
+            {
+                "area_name": "斗六市",
+                "postal_code": "640"
+            },
+            {
+                "area_name": "林內鄉",
+                "postal_code": "643"
+            },
+            {
+                "area_name": "古坑鄉",
+                "postal_code": "646"
+            },
+            {
+                "area_name": "莿桐鄉",
+                "postal_code": "647"
+            },
+            {
+                "area_name": "西螺鎮",
+                "postal_code": "648"
+            },
+            {
+                "area_name": "二崙鄉",
+                "postal_code": "649"
+            },
+            {
+                "area_name": "北港鎮",
+                "postal_code": "651"
+            },
+            {
+                "area_name": "水林鄉",
+                "postal_code": "652"
+            },
+            {
+                "area_name": "口湖鄉",
+                "postal_code": "653"
+            },
+            {
+                "area_name": "四湖鄉",
+                "postal_code": "654"
+            },
+            {
+                "area_name": "元長鄉",
+                "postal_code": "655"
+            }
+        ]
+    },
+    {
+        "city": "臺南市",
+        "areas": [
+            {
+                "area_name": "中西區",
+                "postal_code": "700"
+            },
+            {
+                "area_name": "東區",
+                "postal_code": "701"
+            },
+            {
+                "area_name": "南區",
+                "postal_code": "702"
+            },
+            {
+                "area_name": "北區",
+                "postal_code": "704"
+            },
+            {
+                "area_name": "安平區",
+                "postal_code": "708"
+            },
+            {
+                "area_name": "安南區",
+                "postal_code": "709"
+            },
+            {
+                "area_name": "永康區",
+                "postal_code": "710"
+            },
+            {
+                "area_name": "歸仁區",
+                "postal_code": "711"
+            },
+            {
+                "area_name": "新化區",
+                "postal_code": "712"
+            },
+            {
+                "area_name": "左鎮區",
+                "postal_code": "713"
+            },
+            {
+                "area_name": "玉井區",
+                "postal_code": "714"
+            },
+            {
+                "area_name": "楠西區",
+                "postal_code": "715"
+            },
+            {
+                "area_name": "南化區",
+                "postal_code": "716"
+            },
+            {
+                "area_name": "仁德區",
+                "postal_code": "717"
+            },
+            {
+                "area_name": "關廟區",
+                "postal_code": "718"
+            },
+            {
+                "area_name": "龍崎區",
+                "postal_code": "719"
+            },
+            {
+                "area_name": "官田區",
+                "postal_code": "720"
+            },
+            {
+                "area_name": "麻豆區",
+                "postal_code": "721"
+            },
+            {
+                "area_name": "佳里區",
+                "postal_code": "722"
+            },
+            {
+                "area_name": "西港區",
+                "postal_code": "723"
+            },
+            {
+                "area_name": "七股區",
+                "postal_code": "724"
+            },
+            {
+                "area_name": "將軍區",
+                "postal_code": "725"
+            },
+            {
+                "area_name": "學甲區",
+                "postal_code": "726"
+            },
+            {
+                "area_name": "北門區",
+                "postal_code": "727"
+            },
+            {
+                "area_name": "新營區",
+                "postal_code": "730"
+            },
+            {
+                "area_name": "後壁區",
+                "postal_code": "731"
+            },
+            {
+                "area_name": "白河區",
+                "postal_code": "732"
+            },
+            {
+                "area_name": "東山區",
+                "postal_code": "733"
+            },
+            {
+                "area_name": "六甲區",
+                "postal_code": "734"
+            },
+            {
+                "area_name": "下營區",
+                "postal_code": "735"
+            },
+            {
+                "area_name": "柳營區",
+                "postal_code": "736"
+            },
+            {
+                "area_name": "鹽水區",
+                "postal_code": "737"
+            },
+            {
+                "area_name": "善化區",
+                "postal_code": "741"
+            },
+            {
+                "area_name": "新市區",
+                "postal_code": "741"
+            },
+            {
+                "area_name": "大內區",
+                "postal_code": "742"
+            },
+            {
+                "area_name": "山上區",
+                "postal_code": "743"
+            },
+            {
+                "area_name": "新市區",
+                "postal_code": "744"
+            },
+            {
+                "area_name": "安定區",
+                "postal_code": "745"
+            }
+        ]
+    },
+    {
+        "city": "高雄市",
+        "areas": [
+            {
+                "area_name": "新興區",
+                "postal_code": "800"
+            },
+            {
+                "area_name": "前金區",
+                "postal_code": "801"
+            },
+            {
+                "area_name": "苓雅區",
+                "postal_code": "802"
+            },
+            {
+                "area_name": "鹽埕區",
+                "postal_code": "803"
+            },
+            {
+                "area_name": "鼓山區",
+                "postal_code": "804"
+            },
+            {
+                "area_name": "旗津區",
+                "postal_code": "805"
+            },
+            {
+                "area_name": "前鎮區",
+                "postal_code": "806"
+            },
+            {
+                "area_name": "三民區",
+                "postal_code": "807"
+            },
+            {
+                "area_name": "楠梓區",
+                "postal_code": "811"
+            },
+            {
+                "area_name": "小港區",
+                "postal_code": "812"
+            },
+            {
+                "area_name": "左營區",
+                "postal_code": "813"
+            },
+            {
+                "area_name": "仁武區",
+                "postal_code": "814"
+            },
+            {
+                "area_name": "大社區",
+                "postal_code": "815"
+            },
+            {
+                "area_name": "東沙群島",
+                "postal_code": "817"
+            },
+            {
+                "area_name": "南沙群島",
+                "postal_code": "819"
+            },
+            {
+                "area_name": "岡山區",
+                "postal_code": "820"
+            },
+            {
+                "area_name": "路竹區",
+                "postal_code": "821"
+            },
+            {
+                "area_name": "阿蓮區",
+                "postal_code": "822"
+            },
+            {
+                "area_name": "田寮區",
+                "postal_code": "823"
+            },
+            {
+                "area_name": "燕巢區",
+                "postal_code": "824"
+            },
+            {
+                "area_name": "橋頭區",
+                "postal_code": "825"
+            },
+            {
+                "area_name": "梓官區",
+                "postal_code": "826"
+            },
+            {
+                "area_name": "彌陀區",
+                "postal_code": "827"
+            },
+            {
+                "area_name": "永安區",
+                "postal_code": "828"
+            },
+            {
+                "area_name": "湖內區",
+                "postal_code": "829"
+            },
+            {
+                "area_name": "鳳山區",
+                "postal_code": "830"
+            },
+            {
+                "area_name": "大寮區",
+                "postal_code": "831"
+            },
+            {
+                "area_name": "林園區",
+                "postal_code": "832"
+            },
+            {
+                "area_name": "鳥松區",
+                "postal_code": "833"
+            },
+            {
+                "area_name": "大樹區",
+                "postal_code": "840"
+            },
+            {
+                "area_name": "旗山區",
+                "postal_code": "842"
+            },
+            {
+                "area_name": "美濃區",
+                "postal_code": "843"
+            },
+            {
+                "area_name": "六龜區",
+                "postal_code": "844"
+            },
+            {
+                "area_name": "內門區",
+                "postal_code": "845"
+            },
+            {
+                "area_name": "杉林區",
+                "postal_code": "846"
+            },
+            {
+                "area_name": "甲仙區",
+                "postal_code": "847"
+            },
+            {
+                "area_name": "桃源區",
+                "postal_code": "848"
+            },
+            {
+                "area_name": "那瑪夏區",
+                "postal_code": "849"
+            },
+            {
+                "area_name": "茂林區",
+                "postal_code": "851"
+            },
+            {
+                "area_name": "茄萣區",
+                "postal_code": "852"
+            }
+        ]
+    },
+    {
+        "city": "南海島",
+        "areas": [
+            {
+                "area_name": "東沙群島",
+                "postal_code": "817"
+            },
+            {
+                "area_name": "南沙群島",
+                "postal_code": "819"
+            }
+        ]
+    },
+    {
+        "city": "澎湖縣",
+        "areas": [
+            {
+                "area_name": "馬公市",
+                "postal_code": "880"
+            },
+            {
+                "area_name": "西嶼鄉",
+                "postal_code": "881"
+            },
+            {
+                "area_name": "望安鄉",
+                "postal_code": "882"
+            },
+            {
+                "area_name": "七美鄉",
+                "postal_code": "883"
+            },
+            {
+                "area_name": "白沙鄉",
+                "postal_code": "884"
+            },
+            {
+                "area_name": "湖西鄉",
+                "postal_code": "885"
+            }
+        ]
+    },
+    {
+        "city": "金門縣",
+        "areas": [
+            {
+                "area_name": "金沙鎮",
+                "postal_code": "890"
+            },
+            {
+                "area_name": "金湖鎮",
+                "postal_code": "891"
+            },
+            {
+                "area_name": "金寧鄉",
+                "postal_code": "892"
+            },
+            {
+                "area_name": "金城鎮",
+                "postal_code": "893"
+            },
+            {
+                "area_name": "烈嶼鄉",
+                "postal_code": "894"
+            },
+            {
+                "area_name": "烏坵鄉",
+                "postal_code": "896"
+            }
+        ]
+    },
+    {
+        "city": "屏東縣",
+        "areas": [
+            {
+                "area_name": "屏東市",
+                "postal_code": "900"
+            },
+            {
+                "area_name": "三地門鄉",
+                "postal_code": "901"
+            },
+            {
+                "area_name": "霧臺鄉",
+                "postal_code": "902"
+            },
+            {
+                "area_name": "瑪家鄉",
+                "postal_code": "903"
+            },
+            {
+                "area_name": "九如鄉",
+                "postal_code": "904"
+            },
+            {
+                "area_name": "里港鄉",
+                "postal_code": "905"
+            },
+            {
+                "area_name": "高樹鄉",
+                "postal_code": "906"
+            },
+            {
+                "area_name": "鹽埔鄉",
+                "postal_code": "907"
+            },
+            {
+                "area_name": "長治鄉",
+                "postal_code": "908"
+            },
+            {
+                "area_name": "麟洛鄉",
+                "postal_code": "909"
+            },
+            {
+                "area_name": "竹田鄉",
+                "postal_code": "911"
+            },
+            {
+                "area_name": "內埔鄉",
+                "postal_code": "912"
+            },
+            {
+                "area_name": "萬丹鄉",
+                "postal_code": "913"
+            },
+            {
+                "area_name": "潮州鎮",
+                "postal_code": "920"
+            },
+            {
+                "area_name": "泰武鄉",
+                "postal_code": "921"
+            },
+            {
+                "area_name": "來義鄉",
+                "postal_code": "922"
+            },
+            {
+                "area_name": "萬巒鄉",
+                "postal_code": "923"
+            },
+            {
+                "area_name": "崁頂鄉",
+                "postal_code": "924"
+            },
+            {
+                "area_name": "新埤鄉",
+                "postal_code": "925"
+            },
+            {
+                "area_name": "南州鄉",
+                "postal_code": "926"
+            },
+            {
+                "area_name": "林邊鄉",
+                "postal_code": "927"
+            },
+            {
+                "area_name": "東港鎮",
+                "postal_code": "928"
+            },
+            {
+                "area_name": "琉球鄉",
+                "postal_code": "929"
+            },
+            {
+                "area_name": "佳冬鄉",
+                "postal_code": "931"
+            },
+            {
+                "area_name": "新園鄉",
+                "postal_code": "932"
+            },
+            {
+                "area_name": "枋寮鄉",
+                "postal_code": "940"
+            },
+            {
+                "area_name": "枋山鄉",
+                "postal_code": "941"
+            },
+            {
+                "area_name": "春日鄉",
+                "postal_code": "942"
+            },
+            {
+                "area_name": "獅子鄉",
+                "postal_code": "943"
+            },
+            {
+                "area_name": "車城鄉",
+                "postal_code": "944"
+            },
+            {
+                "area_name": "牡丹鄉",
+                "postal_code": "945"
+            },
+            {
+                "area_name": "恆春鎮",
+                "postal_code": "946"
+            },
+            {
+                "area_name": "滿州鄉",
+                "postal_code": "947"
+            }
+        ]
+    },
+    {
+        "city": "臺東縣",
+        "areas": [
+            {
+                "area_name": "臺東市",
+                "postal_code": "950"
+            },
+            {
+                "area_name": "綠島鄉",
+                "postal_code": "951"
+            },
+            {
+                "area_name": "蘭嶼鄉",
+                "postal_code": "952"
+            },
+            {
+                "area_name": "延平鄉",
+                "postal_code": "953"
+            },
+            {
+                "area_name": "卑南鄉",
+                "postal_code": "954"
+            },
+            {
+                "area_name": "鹿野鄉",
+                "postal_code": "955"
+            },
+            {
+                "area_name": "關山鎮",
+                "postal_code": "956"
+            },
+            {
+                "area_name": "海端鄉",
+                "postal_code": "957"
+            },
+            {
+                "area_name": "池上鄉",
+                "postal_code": "958"
+            },
+            {
+                "area_name": "東河鄉",
+                "postal_code": "959"
+            },
+            {
+                "area_name": "成功鎮",
+                "postal_code": "961"
+            },
+            {
+                "area_name": "長濱鄉",
+                "postal_code": "962"
+            },
+            {
+                "area_name": "太麻里鄉",
+                "postal_code": "963"
+            },
+            {
+                "area_name": "金峰鄉",
+                "postal_code": "964"
+            },
+            {
+                "area_name": "大武鄉",
+                "postal_code": "965"
+            },
+            {
+                "area_name": "達仁鄉",
+                "postal_code": "966"
+            }
+        ]
+    },
+    {
+        "city": "花蓮縣",
+        "areas": [
+            {
+                "area_name": "花蓮市",
+                "postal_code": "970"
+            },
+            {
+                "area_name": "新城鄉",
+                "postal_code": "971"
+            },
+            {
+                "area_name": "秀林鄉",
+                "postal_code": "972"
+            },
+            {
+                "area_name": "吉安鄉",
+                "postal_code": "973"
+            },
+            {
+                "area_name": "壽豐鄉",
+                "postal_code": "974"
+            },
+            {
+                "area_name": "鳳林鎮",
+                "postal_code": "975"
+            },
+            {
+                "area_name": "光復鄉",
+                "postal_code": "976"
+            },
+            {
+                "area_name": "豐濱鄉",
+                "postal_code": "977"
+            },
+            {
+                "area_name": "瑞穗鄉",
+                "postal_code": "978"
+            },
+            {
+                "area_name": "萬榮鄉",
+                "postal_code": "979"
+            },
+            {
+                "area_name": "玉里鎮",
+                "postal_code": "981"
+            },
+            {
+                "area_name": "卓溪鄉",
+                "postal_code": "982"
+            },
+            {
+                "area_name": "富里鄉",
+                "postal_code": "983"
+            }
+        ]
+    }
+]

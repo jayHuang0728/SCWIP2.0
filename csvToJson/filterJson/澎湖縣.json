@@ -1,0 +1,58 @@
+[
+    {
+        "ins_id": "88000010",
+        "ins_type": "公立",
+        "ins_name": "衛生福利部澎湖老人之家",
+        "agent": "趙正派",
+        "phone": "06-9217056",
+        "capacity": "安養",
+        "num_bed": "24",
+        "city": "澎湖縣",
+        "area": "馬公市",
+        "address": "澎湖縣馬公市光華里123號",
+        "latitude": 23.5598518,
+        "longitude": 119.6031218
+    },
+    {
+        "ins_id": "88400030",
+        "ins_type": "私立",
+        "ins_name": "澎湖縣私立慈安養護中心",
+        "agent": "黃伯仲",
+        "phone": "06-9931899",
+        "capacity": "養護",
+        "num_bed": "34",
+        "city": "澎湖縣",
+        "area": "白沙鄉",
+        "address": "澎湖縣白沙鄉中屯村99號",
+        "latitude": 23.6141552,
+        "longitude": 119.607897
+    },
+    {
+        "ins_id": "88000010",
+        "ins_type": "公立",
+        "ins_name": "衛生福利部澎湖老人之家",
+        "agent": "趙正派",
+        "phone": "06-9217056",
+        "capacity": "養護",
+        "num_bed": "48(含插2管16床)",
+        "city": "澎湖縣",
+        "area": "馬公市",
+        "address": "澎湖縣馬公市光華里123號",
+        "latitude": 23.5598518,
+        "longitude": 119.6031218
+    },
+    {
+        "ins_id": "88400020",
+        "ins_type": "私立",
+        "ins_name": "澎湖縣私立感恩養護中心",
+        "agent": "洪桂珍",
+        "phone": "06-9933888",
+        "capacity": "養護",
+        "num_bed": "49",
+        "city": "澎湖縣",
+        "area": "白沙鄉",
+        "address": "澎湖縣白沙鄉中屯村100號",
+        "latitude": 23.6141552,
+        "longitude": 119.607897
+    }
+]

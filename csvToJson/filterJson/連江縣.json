@@ -1,0 +1,30 @@
+[
+    {
+        "ins_id": "20900010",
+        "ins_type": "公立",
+        "ins_name": "連江縣大同之家",
+        "agent": "池瑞萍",
+        "phone": "0836-22033",
+        "capacity": "養護",
+        "num_bed": "18",
+        "city": "連江縣",
+        "area": "南竿鄉",
+        "address": "連江縣南竿鄉清水村131號",
+        "latitude": 26.1503,
+        "longitude": 119.935618
+    },
+    {
+        "ins_id": "20900010",
+        "ins_type": "公立",
+        "ins_name": "連江縣大同之家",
+        "agent": "池瑞萍",
+        "phone": "0836-22033",
+        "capacity": "安養",
+        "num_bed": "16",
+        "city": "連江縣",
+        "area": "南竿鄉",
+        "address": "連江縣南竿鄉清水村131號",
+        "latitude": 26.1503,
+        "longitude": 119.935618
+    }
+]
