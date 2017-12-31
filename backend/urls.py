@@ -20,6 +20,7 @@ urlpatterns = [
     url(r'^verify-email/$', views.VerifyEmailView.as_view(), name='rest_verify_email'),url(r'^account-confirm-email/(?P<key>[-:\w]+)/$', TemplateView.as_view(),
         name='account_confirm_email'),
     url(r'^ins_unit_cap-list/(?P<ins_id>[0-9]+)/$', views.InstitutionCapList.as_view()),
+    url(r'^list-all-aqi/$', views.AqiListAllView.as_view()),
     # url(r'^6/',
     # url(r'^5/', vie
     url(r'^institution-detail/(?P<pk>[0-9]+)/$', views.InstitutionDetail.as_view()),
